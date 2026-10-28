@@ -1,0 +1,33 @@
+# Batch 4: OPSIONAL. Hapus tanda # di depan paket yang memang tidak dipakai.
+# Paket berbasis apex (Privacy Sandbox) bisa ditolak sistem, itu normal.
+
+#cn.wps.xiaomi.abroad.lite
+#com.xiaomi.wearable
+#com.xiaomi.scanner
+#com.miui.compass
+#com.miui.guardprovider
+#com.xiaomi.mircs
+#com.mediatek.voicecommand
+#com.mediatek.voiceunlock
+#com.google.android.gms.location.history
+#com.google.ar.lens
+#com.google.ar.core
+#com.google.android.apps.bard
+#com.google.android.apps.tachyon
+#com.google.android.apps.docs
+#com.google.android.gm
+#com.google.android.apps.maps
+#com.google.android.apps.photos
+#com.google.android.apps.wellbeing
+#com.xiaomi.mirror
+#com.miui.mishare.connectivity
+#com.miui.touchassistant
+#com.xiaomi.aiasst.vision
+#com.miui.cloudservice
+#com.miui.cloudbackup
+#com.miui.micloudsync
+#com.google.android.adservices.api
+#com.google.android.ondevicepersonalization.services
+#com.google.android.federatedcompute
+#com.google.android.sdksandbox
+#com.google.mainline.adservices

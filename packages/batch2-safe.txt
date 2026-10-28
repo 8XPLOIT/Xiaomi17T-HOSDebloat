@@ -1,0 +1,21 @@
+# Batch 2: risiko rendah (Microsoft, layanan Google tambahan, debug, utilitas jarang dipakai)
+com.microsoft.appmanager
+com.microsoftsdk.crossdeviceservicebroker
+com.microsoft.deviceintegrationservice
+com.google.android.apps.subscriptions.red
+com.google.ambient.streaming
+com.google.android.printservice.recommendation
+com.google.android.projection.gearhead
+com.google.mainline.telemetry
+com.android.egg
+com.android.dreams.basic
+com.android.dreams.phototable
+com.android.htmlviewer
+com.android.bookmarkprovider
+com.android.providers.partnerbookmarks
+com.android.DeviceAsWebcam
+com.android.virtualization.terminal
+com.android.dynsystem
+com.debug.loggerui
+com.bsp.catchlog
+com.mediatek.mdmlsample

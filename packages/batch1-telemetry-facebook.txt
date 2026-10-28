@@ -1,0 +1,26 @@
+# Batch 1: telemetri, iklan, Facebook preinstall, aplikasi bawaan opsional
+# Baris diawali # diabaikan. Paket yang tidak ada di perangkat dilewati otomatis.
+
+# Telemetri
+com.miui.analytics
+
+# Facebook preinstall (layanan latar belakang)
+com.facebook.appmanager
+com.facebook.system
+com.facebook.services
+
+# Opsional: aplikasi Facebook dan Messenger
+com.facebook.katana
+com.facebook.orca
+
+# Opsional: browser, musik, video bawaan
+com.mi.globalbrowser
+com.miui.player
+com.miui.videoplayer
+
+# Iklan/rekomendasi Xiaomi (tidak ada di Xiaomi 17T global, ada di beberapa perangkat lain)
+com.miui.msa.global
+com.miui.systemAdSolution
+com.xiaomi.mipicks
+com.miui.bugreport
+com.miui.hybrid

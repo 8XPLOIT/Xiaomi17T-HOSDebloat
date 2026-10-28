@@ -1,0 +1,13 @@
+# Batch 3: rekomendasi/promosi, Family Link, cetak, alat tes pabrik
+com.amazon.appmanager
+com.xiaomi.discover
+com.miui.securityadd
+com.google.android.apps.kids.familylink
+com.google.android.gms.supervision
+com.google.android.apps.restore
+com.google.android.apps.chromecast.app
+com.google.android.apps.safetyhub
+com.xiaomi.barrage
+com.android.bips
+com.android.printspooler
+com.miui.cit
